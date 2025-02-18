@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+void swap(int &,int &);//declaration added
 int sum(int i,int k)
 {
 	return k+j;
