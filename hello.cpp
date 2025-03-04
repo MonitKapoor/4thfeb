@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 void swap(int &,int &);//declaration added
-int sum(int i,int k)
+int sum(int i,int k)//sample comment
 {
 	return k+j;
 }
