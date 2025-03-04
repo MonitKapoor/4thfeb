@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-void swap(int &,int &);//declaration added
+void swap(int &k,int &j)
+{ 
+	//some code here in test branch
+}
 int sum(int i,int k)
 {
 	return k+j;
