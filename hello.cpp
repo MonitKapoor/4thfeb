@@ -5,8 +5,16 @@ int sum(int i,int k)
 {
 	return k+j;
 }
+int greater(int j,int k)
+{
+	if(j<k)
+	{return k;}
+	else
+		return j;
+}
 int main()
 {
 	sum(10,20);
+        greater(10,20);      
 	return 0;
 }
